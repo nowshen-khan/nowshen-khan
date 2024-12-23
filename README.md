@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I’m passionate about **web development**, **codi
 
 - LinkedIn: [Nowshen Khan Profile](https://www.linkedin.com/in/nowshen-khan/)
 - Email: [nowshen.anjum@gmail.com](mailto:nowshen.anjum@gmail.com)
-- Facebook: [Nowshen Khan Profile](https://www.facebook.com/nowshen.khan)
+- Facebook: [Nowshen Khan Profile](https://www.facebook.com/nowshenkhan11)
 
 ---
 
