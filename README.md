@@ -52,4 +52,6 @@ Welcome to my GitHub profile! I’m passionate about **web development**, **codi
 
 ---
 
+[![](https://visitcount.itsvg.in/api?id=nowshen&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me. Let’s build something amazing together! 💜
