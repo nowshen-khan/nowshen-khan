@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I’m passionate about **web development**, **codi
 
 ## 🔧 Skills & Technologies
 
-- **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap
-- **Backend Development**: Node.js, Express.js
-- **Database**: MongoDB
-- **Full Stack Frameworks**: MERN Stack, Next.js
-- **Tools**: Git, GitHub, Vite, VS Code
+- **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwindcss
+- **Backend Development**: Node.js, Express.js, Laravel
+- **Database**: MongoDB, MySQL
+- **Full Stack Frameworks**: MERN Stack, Next.js, Laravel
+- **Tools**: Git, GitHub, Vite, VS Code, Postman
 
 ---
 
@@ -40,15 +40,15 @@ Welcome to my GitHub profile! I’m passionate about **web development**, **codi
 
 ## 🛠️ Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,nextjs,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,nextjs,git,github,laravel,mysql)](https://skillicons.dev)
 
 ---
 
 ## 📢 Connect with Me
 
-- LinkedIn: [Nowshen Khan Profile](https://www.linkedin.com/in/nowshen-khan/)
+- LinkedIn: [Nowshen Khan](https://www.linkedin.com/in/nowshen-khan/)
 - Email: [nowshen.anjum@gmail.com](mailto:nowshen.anjum@gmail.com)
-- Facebook: [Nowshen Khan Profile](https://www.facebook.com/nowshenkhan11)
+- Facebook: [Nowshen Khan](https://www.facebook.com/nowshenkhan11)
 
 ---
 
