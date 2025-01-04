@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m passionate about **web development**, **codi
 
 ## 🔧 Skills & Technologies
 
-- **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwindcss
+- **Frontend Development**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind
 - **Backend Development**: Node.js, Express.js, Laravel
 - **Database**: MongoDB, MySQL
 - **Full Stack Frameworks**: MERN Stack, Next.js, Laravel
