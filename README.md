@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I’m passionate about **web development**, **codi
 
 ## 🛠️ Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,nextjs,git,github,laravel,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,vue,nodejs,express,mongodb,nextjs,git,github,laravel,mysql)](https://skillicons.dev)
 
 ---
 
