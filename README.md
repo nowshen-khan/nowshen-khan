@@ -57,7 +57,8 @@ Some featured projects:
 ## 📢 Connect with Me
 
 - LinkedIn: [Nowshen Khan](https://www.linkedin.com/in/nowshen-khan/)
-- Email: [nowshen.anjum@gmail.com](mailto:nowshen.anjum@gmail.com)
+- Email (primary): [nowshen.anjum@gmail.com](mailto:nowshen.anjum@gmail.com)
+- Email (business): [contact@nowshen.com](mailto:contact@nowshen.com)
 - Facebook: [Nowshen Khan](https://www.facebook.com/nowshenkhan11)
 
 ---
